@@ -7,3 +7,4 @@ The database and the front end is designed to also support beforehand reservatio
 Technologies used sere sql plus, oracle sql developer and intellij idea.
 To run the project one must generate the database by running project.sql file in sql plus or oracle sql developer. After that one could populate the database by running following files in the given order populate_recep,populate_roomType,populate_room.
 After that you could run the RoomReservationForm file in  Itntellij idea project.Make sure to put  your own  username and password in place of "HUZAIFA" and "tiger" in the code
+Lastly you could delete the whole database using deleteProject.sql file
